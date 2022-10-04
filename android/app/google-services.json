@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "244789221373",
+    "project_id": "lifeofgiving-611de",
+    "storage_bucket": "lifeofgiving-611de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244789221373:android:fd6d97efe867a40438eb94",
+        "android_client_info": {
+          "package_name": "com.example.life_of_giving"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244789221373-6qi2cadcho2bitf9c9t1c2pvr390kfes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGWIsVdfH7HO6Zy1U3q165o6f62b3bhqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244789221373-6qi2cadcho2bitf9c9t1c2pvr390kfes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
